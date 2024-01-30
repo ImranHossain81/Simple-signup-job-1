@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162453488366",
+    "project_id": "imran-47129083-job1",
+    "storage_bucket": "imran-47129083-job1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162453488366:android:54e9cf0323c91e979b69ff",
+        "android_client_info": {
+          "package_name": "com.example.imran_47129083_job1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66W64iF0vrwYbS4WuOL6PZTCFdSpgFPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
